@@ -10,19 +10,18 @@
   <modules>
     <module>core</module>
     <module>bukkit</module>
-    <module>spout</module>
   </modules>
 
   <scm>
-    <connection>scm:git:git://github.com/zml2008/libcomponents.git</connection>
-    <url>https://github.com/zml2008/libcomponents</url>
-    <developerConnection>scm:git:git@github.com:zml2008/libcomponents.git</developerConnection>
+    <connection>scm:git:git://github.com/rmsy/libcomponents.git</connection>
+    <url>https://github.com/rmsy/libcomponents</url>
+    <developerConnection>scm:git:git@github.com:rmsy/libcomponents.git</developerConnection>
   </scm>
 
   <repositories>
     <repository>
       <id>sk89q-mvn2</id>
-      <url>http://mvn2.sk89q.com/repo</url>
+      <url>http://maven.sk89q.com/repo/</url>
     </repository>
     <repository>
       <id>bukkit-rep</id>
